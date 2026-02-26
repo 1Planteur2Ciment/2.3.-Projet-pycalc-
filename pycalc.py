@@ -9,4 +9,6 @@ def calculator():
 		print("résultat :", valeur1 - valeur2)
 	elif modeOp == "m":
 		print("résultat :", valeur1 * valeur2)
+	elif modeOp == "d":
+		print("résultat :", valeur1 / valeur2)
 	
